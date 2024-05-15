@@ -1,10 +1,10 @@
-Este es un proyecto con [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Este es un proyecto con [**React Native**](https://reactnative.dev) bootstrapped usando [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Como empezar
 
 >**Nota**: Asegurate de tener todo el [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) Para poder ejecutar este proyecto sin ningun problema.
 
-## Paso 1:
+## Paso 1: Instala las depencias
 
 ```bash
 # Comando para instalar las dependencias de Node.js
@@ -12,9 +12,7 @@ Este es un proyecto con [**React Native**](https://reactnative.dev) project, boo
 npm install
 ```
 
-## Step 2: Ejecuta tu aplicacion.
-
-
+## Paso 2: Ejecuta tu aplicacion.
 
 ### Para Android
 
